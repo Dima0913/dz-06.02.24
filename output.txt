@@ -1,0 +1,5 @@
+sumvoly: 26
+radky: 4
+golosny: 6
+prugolosny: 22
+count: 6
